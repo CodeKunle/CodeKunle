@@ -44,15 +44,18 @@ I’m on a journey to:
 
 ## 🚀 Projects & Contributions  
 
-1. **[Project Name](#)**  
-   - 🔗 **Description:** A brief overview of the project.  
-   - 🛠️ **Tech Stack:** [JavaScript, Solidity, React]  
-   - 🌟 **Achievements:** Highlights of your contributions.  
+1. **eCommerceProject(#)**  
+   - 🔗 **Description:** This is an ecommerce project that diplays both electronics and clothing products.  
+   - 🛠️ **Tech Stack:** [HTML,CSS,JavaScript]  
+   - 🌟 **Achievements:** This was my first complex project that actually demanded my knowledge of html,css and javaScript.  
 
-2. **[Another Cool Project](#)**  
-   - 🔗 **Description:** What problem did it solve?  
-   - 🛠️ **Tech Stack:** [Python, SQL, Microsoft Excel]  
+2. **Twitter Project(#)**  
+   - 🔗 **Description:** In this project, I used react to develop a twitter clone capable of displaying profile page, tweet and search for tweets  
+   - 🛠️ **Tech Stack:** [JavasScript, React]  
 
+2. **Counter App Project(#)**  
+   - 🔗 **Description:** In this project, I used react to develop a counter 
+   - 🛠️ **Tech Stack:** [JavasScript, React]  
 ---
 
 Feel free to explore my repositories, reach out, and collaborate! Let's create something incredible together! 🌈  
