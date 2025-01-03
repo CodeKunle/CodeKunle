@@ -39,6 +39,7 @@ I’m on a journey to:
 
 - **LinkedIn:** https://www.linkedin.com/notifications/?filter=all  
 - **Email:** kunle.salis@gmail.com
+- **My-CV:** ![📰](https://github.com/CodeKunle/CV/blob/main/CV-waheedSalisu.pdf)
 
 ---
 
