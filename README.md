@@ -13,14 +13,19 @@ Passionate **developer** and **innovator**, blending technical expertise with cr
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
+  
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)  
   ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=ethereum&logoColor=white&style=flat-square)
 
 - **Frameworks & Tools:**  
+  ![Express](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
+  ![NodeJs](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
   ![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white&style=flat-square)  
   ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)  
   ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat-square)  
+  ![Requestly](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
+  ![Neon Cloud PostgreSql Database ](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
   ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
 
 ---
