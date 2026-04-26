@@ -18,8 +18,8 @@ Passionate **developer** and **innovator**, blending technical expertise with cr
   ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=ethereum&logoColor=white&style=flat-square)
 
 - **Frameworks & Tools:**  
-  ![Express](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
-  ![NodeJs](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
   ![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white&style=flat-square)  
   ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)  
