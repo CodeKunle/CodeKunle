@@ -25,7 +25,7 @@ Passionate **developer** and **innovator**, blending technical expertise with cr
   ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)  
   ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat-square)  
   ![Requestly](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
-  ![Neon Cloud PostgreSql Database ](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
+  ![Neon PostgreSQL](https://img.shields.io/badge/-Neon%20PostgreSQL-00E599?logo=postgresql&logoColor=white&style=flat-square)
   ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
 
 ---
