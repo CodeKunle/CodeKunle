@@ -35,10 +35,11 @@ Passionate **developer** and **innovator**, blending technical expertise with cr
 I’m on a journey to:  
      
 1. **Innovate** with interactive front-end designs.
-2. **Build robust and scalable back-end systems.
-3. **Deploy reliable full-stack applications to the cloud.
-4. **Empower** businesses with blockchain solutions. 
-5. **Optimize** processes through data-driven insights.  
+2. **Build** robust and scalable back-end systems.
+3. **Deploy** reliable full-stack applications to the cloud.
+4. **Integrate** AI-powered features that create smarter user experiences.
+5. **Empower** businesses with blockchain solutions. 
+6. **Optimize** processes through data-driven insights.  
 
 ---
 
